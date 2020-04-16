@@ -1,0 +1,9 @@
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\bin\Debug\MoveCursor.exe.config
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\bin\Debug\MoveCursor.exe
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\bin\Debug\MoveCursor.pdb
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\obj\Debug\MoveCursor.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\obj\Debug\MoveCursor.Form1.resources
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\obj\Debug\MoveCursor.Properties.Resources.resources
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\obj\Debug\MoveCursor.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\obj\Debug\MoveCursor.exe
+C:\Users\Simon\source\repos\MoveCursor\MoveCursor\obj\Debug\MoveCursor.pdb
